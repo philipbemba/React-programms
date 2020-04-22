@@ -1,0 +1,6 @@
+{
+    "name": "beneficiary",
+    "version": "1.0.0",
+    "main": "Beneficiary.js",
+    "private": true
+  }
